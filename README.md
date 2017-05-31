@@ -1,2 +1,4 @@
 # hello-world
-My first repository
+
+안녕 친구 !
+ICT students who enjoy learning language and want to communicate with computers.
